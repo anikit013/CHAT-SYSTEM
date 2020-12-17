@@ -1,0 +1,7 @@
+move to User folder Anikit 
+
+Then
+
+npm init
+memechat 
+node chatServer
